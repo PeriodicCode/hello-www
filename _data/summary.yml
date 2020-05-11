@@ -1,0 +1,6 @@
+- thing: Thing-1
+  dataX : X-data-1
+  dataY : Y-data-1
+- thing: Thing-2
+  dataX : X-data-2
+  dataY : Y-data-2
