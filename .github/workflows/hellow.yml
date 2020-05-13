@@ -1,6 +1,7 @@
 name: HelloTest
 
 # Controls when the action will run.
+# Test wiki page edit event.
 on:
   gollum
 
