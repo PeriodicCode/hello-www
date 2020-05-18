@@ -1,0 +1,15 @@
+{
+    "type" : "exp",
+    "name" : "test",
+    "list" :
+    [
+        {
+            "item" : "item-1",
+            "data" : "100"
+        },
+        {
+            "item" : "item-2",
+            "data" : "500"
+        }
+    ]
+}
